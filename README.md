@@ -21,10 +21,6 @@ Algorithms used: **Dijkstra's Shortest path algorithm**  </br>
 - Delivery charges are added to the cost of ordered pizzas and the **total bill amount** is displayed.
 - Customer can **confirm** his order and pay the bill amount or can **cancel** the current order.
 ***
-#### Delivery Locations Graph:
-![Alt text](/Delivery_loc_graph.png)
-
-***
 #### Future improvements in the project:
 1. File handling: Storing and fetching customer data from a file.
 2. Adding more pizza shops and expanding delivery locations.
